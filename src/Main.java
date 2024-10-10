@@ -6,6 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and ssssswelcome!");
         System.out.println("1");
+        System.out.println("123");
 // alt 9
 // ctrl k
         for (int i = 1; i <= 5; i++) {
